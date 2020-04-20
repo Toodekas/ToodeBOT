@@ -1,5 +1,5 @@
 # ToodeBOT
-This is a BOT that communicates with the inspirobot artaficial intelligence and sends you a motivational quote image, that's randomly generated. It does so every 15 seconds after running
+This is a BOT that communicates with an artaficial intelligence called Inspirobot and sends you a motivational quote image, that's randomly generated. It does so every 15 seconds after running
 
 To use this, please install the fb chat API
 ```pip install fbchat```
